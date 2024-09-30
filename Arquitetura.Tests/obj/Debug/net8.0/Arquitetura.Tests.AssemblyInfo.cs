@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArquiteturaSoftware-FIAP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Arquitetura.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6bb2cd9d02190c1d4b9a461bf5ddc32f1deede6")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArquiteturaSoftware-FIAP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArquiteturaSoftware-FIAP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Arquitetura.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Arquitetura.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
